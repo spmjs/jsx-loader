@@ -1,5 +1,5 @@
 {
-  "name": "jsx-loader",
+  "name": "jsx2-loader",
   "version": "0.13.1",
   "description": "JSX loader for webpack",
   "main": "index.js",
